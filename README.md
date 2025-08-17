@@ -46,27 +46,6 @@ NumPy
 
 Matplotlib
 
-Seaborn
-
-🚀 How to Run
-
-Clone this repository
-
-git clone https://github.com/Anamikaasinghraj/IPL_Analysis_024.git
-cd ipl-data-dive-2024
+Seaborn..!
 
 
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Run the notebook
-
-jupyter notebook ipl.ipynb
-
-📊 Results
-
-Dataset successfully cleaned and explored.
-
-Visual insights into IPL 2024 match outcomes and player/team strategies.
